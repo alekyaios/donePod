@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'donePod_Example' do
+  pod 'donePod', :path => '../'
+
+  target 'donePod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
