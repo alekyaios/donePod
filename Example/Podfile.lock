@@ -1,0 +1,16 @@
+PODS:
+  - donePod (0.1.0)
+
+DEPENDENCIES:
+  - donePod (from `../`)
+
+EXTERNAL SOURCES:
+  donePod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  donePod: 9bf0d504415c12a5247b95cf5cb77d199ef30861
+
+PODFILE CHECKSUM: dfb888e9492a0bcb356d6ad71b1b943ae9a2d863
+
+COCOAPODS: 1.11.3
